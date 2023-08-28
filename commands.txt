@@ -7,3 +7,4 @@ git restore
 git log --online
 git config --global --user.name "kunalnaikodi"
 git config --global --user.email "kunalnaikodi@gmail.com"
+git checkout -b
