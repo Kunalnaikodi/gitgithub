@@ -6,9 +6,7 @@ hhhhhhfvhvhvdhf
 
 
 
-
-jalfkjaksnklansve
-
-
-
 this is ther merge confilcts 
+
+This is feature 6 merge confilts
+
