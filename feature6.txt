@@ -1,5 +1,5 @@
 this is feature6
-
+git addd merge:wq
 bahut kam h
 
 hhhhhhfvhvhvdhf
